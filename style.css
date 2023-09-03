@@ -132,7 +132,7 @@ p{
 }
 
 .illustration-img{
-  background-image: url('/assets/images/illustration-sign-up-mobile.svg');
+  background-image: url('assets/images/illustration-sign-up-mobile.svg');
   width: 375px;
   height: 284px;
   margin-inline: auto;
@@ -140,7 +140,7 @@ p{
 
 @media(width >= 50rem){
   .illustration-img{
-    background-image: url('/assets/images/illustration-sign-up-desktop.svg');
+    background-image: url('assets/images/illustration-sign-up-desktop.svg');
     width: 400px;
     height: 593px;
     grid-column: 2 / 3;
@@ -175,7 +175,7 @@ p{
 }
 
 .icon-list{
-  background-image: url('/assets/images/icon-list.svg');
+  background-image: url('assets/images/icon-list.svg');
   background-repeat: no-repeat;
   width: 23px;
   height: 21px;
@@ -279,7 +279,7 @@ p{
 }
 
 .icon-success{
-  background-image: url('/assets/images/icon-success.svg');
+  background-image: url('assets/images/icon-success.svg');
   width: 64px;
   aspect-ratio: 1;
 }
